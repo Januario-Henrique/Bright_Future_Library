@@ -4,19 +4,19 @@ import "../styles/Events.css";
 function Events() {
   const events = [
     {
-      date: "15 March 2025",
+      date: "31 October 2026",
       title: "Children's Storytelling Hour",
       description: "Interactive storytelling session for children aged 4–10.",
     },
     {
-      date: "22 March 2025",
-      title: "Digital Literacy Workshop",
-      description: "Learn essential computer and internet skills for everyday use.",
+      date: "5 November 2026",
+      title: "Literacy Workshop",
+      description: "Reading Competition.",
     },
     {
-      date: "5 April 2025",
+      date: "23 December 2026",
       title: "Book Club Meeting",
-      description: "Join us to discuss this month's featured novel and share your thoughts.",
+      description: "a community literacy workshop",
     },
   ];
 
