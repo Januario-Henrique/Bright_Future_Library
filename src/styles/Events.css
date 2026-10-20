@@ -1,0 +1,37 @@
+.events {
+  background: #fef9e7;
+}
+
+.events-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.event-card {
+  background: #fff;
+  border-left: 5px solid #3b82f6;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.event-date {
+  display: inline-block;
+  background: #3b82f6;
+  color: #fff;
+  font-size: 0.85rem;
+  padding: 4px 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.event-card h3 {
+  color: #1e3a8a;
+  margin-bottom: 8px;
+}
+
+.event-card p {
+  color: #555;
+  font-size: 0.95rem;
+}

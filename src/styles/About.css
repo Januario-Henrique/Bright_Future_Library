@@ -1,0 +1,14 @@
+.about {
+  background: #fff;
+  text-align: center;
+}
+
+.about-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.about-content p {
+  margin-bottom: 16px;
+  color: #374151;
+}
